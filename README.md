@@ -36,7 +36,7 @@ Hi there! I'm an IT Officer based in Kenya, with a passion for optimizing system
 | **Ambulance Management System** | Custom-built Ambulance management system for MOHI | [🌐 View Code](https://github.com/BrooksOG/ambulance-management-system) |
 | **Student Voting System** | Used in KCSE elections; featured in regional science fair | HTML, JS |
 | **IT Inventory System** | Custom-built asset management tool | HTML, PHP, JS |
-| **ICT Club Website** | For Oruba Girls ICT Club|[🌐 Visit Website](https://brooksict.orgfree.com/)|
+| **ICT Club Website** | For Oruba Girls ICT Club|[🌐 Visit Website](https://glenict.freevar.com/)|
 | **Portfolio Site** | My online resume and showcase | [🌐 Visit Website](https://brooksog.github.io/Brooksictmultiverse/) |
 
 ---
