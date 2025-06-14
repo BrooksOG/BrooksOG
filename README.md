@@ -1,6 +1,6 @@
 # 👨‍💻 Glen Osano – IT Support | Networking | Web Development
 
-Hi there! I'm an IT Officer based in Kenya, with a passion for optimizing systems and empowering users. I specialize in **network administration**, **hardware/software support**, and **web development**, with a track record of real-world results across educational and non-profit sectors.
+Hi there! I'm an IT Officer based in Kenya, passionate about optimizing systems and empowering users. I specialize in **network administration**, **hardware/software support**, and **web development**, with a track record of real-world results across educational and non-profit sectors.
 
 ---
 
